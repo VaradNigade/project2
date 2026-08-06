@@ -1,4 +1,4 @@
 # new project
 
-This project was created from local system
-created by Varad Nigade
+This project was created from local system.
+Created by Varad Nigade
